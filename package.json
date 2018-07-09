@@ -1,0 +1,41 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.1.1",
+    "bootstrap-daterangepicker": "^3.0.1",
+    "cra-append-sw": "^2.5.0",
+    "firebase": "^5.0.3",
+    "google-translate": "^2.1.0",
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.10",
+    "material-ui": "^0.20.0",
+    "moment": "^2.22.1",
+    "number-to-words": "^1.2.3",
+    "numbered": "^1.1.0",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2",
+    "react-addons-css-transition-group": "^15.6.2",
+    "react-bootstrap-daterangepicker": "^4.1.0",
+    "react-calendar": "^2.14.0",
+    "react-calendar-pane": "^1.0.3",
+    "react-datepicker": "^1.4.1",
+    "react-dates": "^16.6.1",
+    "react-datetime": "^2.14.0",
+    "react-dom": "^16.3.2",
+    "react-infinite-calendar": "^2.3.1",
+    "react-scripts-cssmodules": "^1.1.10",
+    "react-transition-group": "^1.2.1",
+    "reactstrap": "^6.0.1",
+    "unirest": "^0.5.1",
+    "watson-developer-cloud": "^3.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
